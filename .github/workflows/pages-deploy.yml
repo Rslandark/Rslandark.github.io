@@ -32,8 +32,8 @@ jobs:
         with:
           fetch-depth: 0
           # submodules: true
-          # If using the 'assets' git submodule from Chirpy Starter, uncomment above
-          # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
+          # If using the 'assets' git submodule from Rslandark Starter, uncomment above
+          # (See: https://github.com/Rslandark)
 
       - name: Setup Pages
         id: pages
